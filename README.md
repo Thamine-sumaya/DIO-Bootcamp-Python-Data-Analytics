@@ -18,7 +18,7 @@ Este repositório contém os arquivos relacionados ao Bootcamp Python Data Analy
 ### Git e Github
 Trabalha os fundamentos do sistema de versionamento de código git, o funcionamento da plataforma Github e tem como conclusão um projeto prático que consiste na criação de um Profile [README](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/Thamine-sumaya.md) personalizado  contendo informações pessoais, como uma apresentação para a comunidade.
 
-<a href="https://crocus-tuesday-cd5.notion.site/Git-e-Github-df5cc01aee2845459f508d41c00e2471?pvs=4">
+<a href="https://crocus-tuesday-cd5.notion.site/Bootcamp-DIO-Python-Data-Analytics-Git-e-Github-ae536b5bc62e4407ba7c12573426c5a7?pvs=4">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/16d5f6d1-8d94-4227-bf8e-4034aba76f08" alt="anotações git" width="100" >
 </a>
 
