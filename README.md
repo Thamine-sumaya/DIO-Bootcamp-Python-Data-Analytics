@@ -5,13 +5,13 @@
 
 Este repositório contém os arquivos relacionados ao Bootcamp Python Data Analytics proporcionado pela DIO_me em colaboração com a Squadio. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo des de anotações teoricas, até projetos práticos. 
 
-![Ferramentas](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/deddffb6-9ab7-4d66-8e04-92a7ef987ec9)
+![Conteúdo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/d2fd324f-4908-4f3b-9587-bf7155c90d9e)
 
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=D98C46)
-![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=D98C46)
-![Power Bi](https://img.shields.io/badge/power_bi-000000?style=for-the-badge&logo=powerbi&logoColor=D98C46)
-![PLSQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle&logoColor=D98C46)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=googlebard&logoColor=D98C46)
+[![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=D98C46)](###-Git-e-Github-)
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=D98C46)](###-Python-)
+[![PLSQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle&logoColor=D98C46)](###-Banco-de-dados-SQL-)
+[![Power Bi](https://img.shields.io/badge/power_bi-000000?style=for-the-badge&logo=powerbi&logoColor=D98C46)](###-PowerBI-)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=googlebard&logoColor=D98C46)](###-Machine-Learning-)
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 
