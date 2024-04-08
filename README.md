@@ -4,7 +4,6 @@
 ![Visão Geral](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a7696630-7c16-4091-b79e-29b03b9b30dc)
 
 Este repositório contém os arquivos relacionados ao Bootcamp Python Data Analytics proporcionado pela DIO_me em colaboração com a Squadio. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo des de anotações teoricas, até projetos práticos. 
-O Bootcamp se divide em 5 conjuntos de módulos 
 
 ![Ferramentas](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/deddffb6-9ab7-4d66-8e04-92a7ef987ec9)
 
@@ -37,6 +36,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 ### PowerBI
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### Machine Learning
+
 
 <!---![Objetivo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a5701b05-926d-472d-b67f-ae087f45f5ca)
 
