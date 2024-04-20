@@ -37,10 +37,10 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/16d5f6d1-8d94-4227-bf8e-4034aba76f08" alt="anotações sql" width="100" >
 </a>
 <br>
-<a href="https://crocus-tuesday-cd5.notion.site/Bootcamp-DIO-Python-fcf67ef97ae74bbf827a44544a10313d?pvs=4">
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/d1afd90b-f5e2-4fe0-9d38-8e5e499c165f" alt="PHPMyAdmin" width="100" >
 </a>
-<a href="https://crocus-tuesday-cd5.notion.site/Bootcamp-DIO-Python-fcf67ef97ae74bbf827a44544a10313d?pvs=4">
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mariadb">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a49521b8-5ddb-42fe-994c-f2a47f7c6e5b" alt="Maria DB" width="100" >
 </a>
 
@@ -51,7 +51,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/16d5f6d1-8d94-4227-bf8e-4034aba76f08" alt="anotações Nosql" width="100" >
 </a>
 <br>
-<a href="https://crocus-tuesday-cd5.notion.site/Bootcamp-DIO-Python-fcf67ef97ae74bbf827a44544a10313d?pvs=4">
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/bbe19dff-23ad-4e75-9d40-871935d308b7" alt="Mongo DB" width="75" >
 </a>
 
