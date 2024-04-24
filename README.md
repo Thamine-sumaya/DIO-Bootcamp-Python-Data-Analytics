@@ -52,7 +52,10 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 </a>
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/bbe19dff-23ad-4e75-9d40-871935d308b7" alt="Mongo DB" width="75" >
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/bbe19dff-23ad-4e75-9d40-871935d308b7" alt="Mongo DB" width="50" >
+</a>
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/087a8c73-a354-43b3-a5aa-2df495a1eeac" alt="Mongo DB Atlas" width="100" >
 </a>
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
