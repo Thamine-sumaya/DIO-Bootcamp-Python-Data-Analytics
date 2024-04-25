@@ -86,7 +86,7 @@ O objetivo principal deste projeto é desenvolver habilidades em Python, por mei
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/Jornada-Python/blob/main/requeriments.md).
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/requirements.md).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
    
