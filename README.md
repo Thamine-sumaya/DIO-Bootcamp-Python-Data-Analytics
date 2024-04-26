@@ -1,5 +1,6 @@
 ![Bootcamp DIO_me](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/1ba98e10-b0b8-4a47-828a-8fbd79689f33)
 ![Icon Python Data Analytics](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/2a9e7f6c-590c-41bb-bd74-2b1844353996)
+![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/4a02962d-c870-4c65-8eb5-e29f05a05242)
 
 ![Visão Geral](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a7696630-7c16-4091-b79e-29b03b9b30dc)
 
@@ -23,7 +24,7 @@ Trabalha os fundamentos do sistema de versionamento de código git, o funcioname
 Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Python, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e um desafio prático de 3 etapas ao final do módulo, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada e a partir deles esperado uma solução criada pelo aluno, os códigos depois de inseridos são testados pela plataforma, e se dados como corretos a tarefa é concluída.
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-### Banco de dados SQL
+<!---### Banco de dados SQL
 
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
@@ -47,7 +48,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### PowerBI
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-### Machine Learning
+### Machine Learning--->
 
 
 <!---![Objetivo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a5701b05-926d-472d-b67f-ae087f45f5ca)
