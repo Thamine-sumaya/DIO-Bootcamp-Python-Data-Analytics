@@ -53,5 +53,9 @@
 <a href="https://www.dio.me/certificate/LNTCC1QK/share">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/d9d4552d-dcbb-49ca-bde6-696189563c8a" alt="Projeto 1" width="100" >
 </a>
+<a href="https://www.dio.me/certificate/TAT2O420/share">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/44a888f6-aaf3-4718-bb5f-ac506aff6ab0" alt="Projeto 1" width="100" >
+</a>
+
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/6c145984-fb0b-422d-96ef-d39442493c87)
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/c58ee7a8-66ea-4401-ae4a-386888c396d5)
