@@ -11,6 +11,7 @@ Este repositório contém os arquivos relacionados ao Bootcamp Python Data Analy
 [![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=D98C46)](#git-e-github)
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=D98C46)](#python)
 [![PLSQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle&logoColor=D98C46)](#banco-de-dados-sql)
+[![PLSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=oracle&logoColor=D98C46)](#banco-de-dados-sql)
 [![Power Bi](https://img.shields.io/badge/power_bi-000000?style=for-the-badge&logo=powerbi&logoColor=D98C46)](#powerbi)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=googlebard&logoColor=D98C46)](#machine-learning)
 
@@ -24,7 +25,7 @@ Trabalha os fundamentos do sistema de versionamento de código git, o funcioname
 Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Python, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e um desafio prático de 3 etapas ao final do módulo, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada e a partir deles esperado uma solução criada pelo aluno, os códigos depois de inseridos são testados pela plataforma, e se dados como corretos a tarefa é concluída.
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-<!---### Banco de dados SQL
+### Banco de dados SQL
 
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
@@ -46,7 +47,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 </a>
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-### PowerBI
+<!---### PowerBI
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### Machine Learning--->
 
