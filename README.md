@@ -26,7 +26,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### Banco de dados SQL
-
+Trabalha os fundamentos e a estrutura de um banco de dados relacional, por meio da utilização do PHPMyAdmin, uma ferramenta de administração de bancos de dados, foi possível colocar em prática a utilização das funcionalidades CRUDE, DQL, DML e DDL, projetando e criando um Banco de Dados Maria DB, passando desda modelagem, até a inserção e consulta de dados.
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/d1afd90b-f5e2-4fe0-9d38-8e5e499c165f" alt="PHPMyAdmin" width="100" >
@@ -37,19 +37,19 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### Banco de dados NoSQL
-
+Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com foco na introdução do banco de dados Mongo DB, orientado por documentos, por meio da utilização do Mongo DB Comppas, um administrador de banco de dados do sistema Mongo DB, foi possível colocar em prática desda criação de documentos JSON, até a realização de consultas. E também trás brevemente uma introdução ao Redis DB, abordando suas principais caracteristicas e comandos. 
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/bbe19dff-23ad-4e75-9d40-871935d308b7" alt="Mongo DB" width="50" >
 </a>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb-atlas">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/087a8c73-a354-43b3-a5aa-2df495a1eeac" alt="Mongo DB Atlas" width="100" >
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#redis-db">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/cd0ec6a0-c01e-445b-88c0-c78bf418418f" alt="Redis DB" width="100" >
 </a>
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-<!---### PowerBI
+### PowerBI
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-### Machine Learning--->
+<!---### Machine Learning--->
 
 
 <!---![Objetivo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a5701b05-926d-472d-b67f-ae087f45f5ca)
