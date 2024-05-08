@@ -37,7 +37,7 @@ Trabalha os fundamentos e a estrutura de um banco de dados relacional, por meio 
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### Banco de dados NoSQL
-Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com foco na introdução do banco de dados Mongo DB, orientado por documentos, por meio da utilização do Mongo DB Comppas, um administrador de banco de dados do sistema Mongo DB, foi possível colocar em prática desda criação de documentos JSON, até a realização de consultas. E também trás brevemente uma introdução ao Redis DB, abordando suas principais caracteristicas e comandos. 
+Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com foco na introdução do banco de dados Mongo DB, orientado por documentos, por meio da utilização do Mongo DB Comppas, um administrador de banco de dados do sistema Mongo DB, foi possível colocar em prática desda criação de documentos JSON, até a realização de consultas. Também fornece uma breve introdução ao Redis DB, destacando suas principais características e comandos.
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/bbe19dff-23ad-4e75-9d40-871935d308b7" alt="Mongo DB" width="50" >
