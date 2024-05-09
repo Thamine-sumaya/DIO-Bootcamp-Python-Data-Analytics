@@ -48,6 +48,18 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### PowerBI
+<br>
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mysql">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/b836cb65-5792-4ea9-aeba-5a32a2e8dc3a" alt="MySQL" width="100" >
+</a>
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#dbeaver">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f84f5042-5437-4477-af4a-2b1309c84fc0" alt="DBeaver" width="100" >
+</a>
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#power-bi">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/48acacb9-b83d-4acb-a21b-7ae1a86ee52b" alt="Power BI" width="50" >
+</a>
+
+
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 <!---### Machine Learning--->
 
