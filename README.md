@@ -26,7 +26,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### Banco de dados SQL
-Trabalha os fundamentos e a estrutura de um banco de dados relacional, por meio da utilização do PHPMyAdmin, uma ferramenta de administração de bancos de dados, foi possível colocar em prática a utilização das funcionalidades CRUDE, DQL, DML e DDL, projetando e criando um Banco de Dados Maria DB, passando desda modelagem, até a inserção e consulta de dados.
+Trabalha os fundamentos e a estrutura de um banco de dados relacional, por meio da utilização do PHPMyAdmin, uma ferramenta de administração de bancos de dados, foi possível colocar em prática a utilização das funcionalidades CRUDE, DQL, DML, DDL e DCL, projetando e criando um Banco de Dados Maria DB, passando desda modelagem, até a inserção e consulta de dados.
 <br>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/d1afd90b-f5e2-4fe0-9d38-8e5e499c165f" alt="PHPMyAdmin" width="100" >
