@@ -53,7 +53,7 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#dbeaver">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f84f5042-5437-4477-af4a-2b1309c84fc0" alt="DBeaver" width="100" >
 </a>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#power-bi">
+<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#sqlite">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f95be064-1b75-458c-be00-d00638098a4a" alt="SQLite" width="100" >
 </a>
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#power-bi">
