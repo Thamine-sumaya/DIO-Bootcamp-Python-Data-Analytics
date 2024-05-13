@@ -68,7 +68,7 @@
 </table>
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-### MySQL
+### SQLite
 <table align="justify" style="border-collapse: collapse;">
   <tr>
     <td style="border-collapse: collapse;>
@@ -78,7 +78,7 @@
     </td>
     <td style=""border-collapse: collapse;">
       <div align="right">
-        <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/b836cb65-5792-4ea9-aeba-5a32a2e8dc3a" width="100"/>
+        <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f95be064-1b75-458c-be00-d00638098a4a" width="100"/>
       </div>
     </td>
   </tr>
